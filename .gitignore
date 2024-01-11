@@ -1,0 +1,10 @@
+fronted/.DS_Store
+fronted/node_modules
+fronted/build
+fronted/.svelte-kit
+fronted/package
+fronted/.env
+fronted/.env.*
+fronted/!.env.example
+fronted/vite.config.js.timestamp-*
+fronted/vite.config.ts.timestamp-*

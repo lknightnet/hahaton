@@ -1,0 +1,11 @@
+app:
+  name: "gateway"
+serverCfg:
+  port: 8000
+  readTimeout: 1m
+  writeTimeout: 1m
+  shutdownTimeout: 5s
+servicesPort:
+  bellPort: ":8003"
+  audioPort: ":8004"
+  transPort: ":8002"
